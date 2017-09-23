@@ -1,4 +1,5 @@
 <?php
+echo "OK";
 require_once '../vendor/autoload.php';
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
